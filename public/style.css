@@ -15,7 +15,7 @@
     3. SECTION
     4. FOOTER
     5. PAGES
-    6. BLOG
+    6. BLOGf
     7. WIDGETS
 **************************************/
 
@@ -171,12 +171,22 @@ a {
     background-color: #ffffff;
 }
 
-.logo img {
-    max-width: 324px;
+.logo h1 {
+    /* max-width: 324px;
     max-width: 100%;
     margin: auto;
     text-align: center;
-    display: block;
+    display: block; */
+
+    /* background-color: red; */
+     font-weight: bold;
+     font-size: 75px;
+     font-family: 'Playball', cursive;
+     color: darkolivegreen;
+}
+.verb {
+    font-family: 'Abhaya Libre', serif;
+    font-size: 19px;
 }
 
 .navbar-nav {
